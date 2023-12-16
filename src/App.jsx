@@ -5,7 +5,7 @@ function App() {
 console.log(import.meta.env.VITE_APPWRITE_URL);
   return (
     <>
-      <h1>This is an app</h1>
+      <h1>This is an app HIi</h1>
     </>
   )
 }
